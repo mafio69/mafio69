@@ -25,6 +25,7 @@ for what goes to production.
 
 ## Featured projects
 
+- [wirralAI](https://github.com/mafio69/wirralAI) — Slim 4 / PHP 8.4 API with AI chats (OVH AI Endpoints), thin controllers, services, DTOs
 - [fast-php-logger](https://github.com/mafio69/php-logger) — PSR-3 logger, Composer package
 - [fast-php-log-viewer](https://github.com/mafio69/fast-php-log-viewer) — standalone log viewer
 - [ocr-ai](https://github.com/mafio69/ocr-ai) — OCR with visual LLMs and fallback models
