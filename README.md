@@ -1,35 +1,42 @@
-# 👋 Hi, I'm mafio69!
+# Mariusz Franciszczak (mafio69)
 
-Welcome to my GitHub profile!  
-I'm a passionate web developer and lifelong learner—at 56, I’m still exploring new technologies and ideas.
+PHP developer, self-taught, 6+ years of commercial experience.
+Symfony, Slim, Laravel, MySQL/MariaDB, PostgreSQL, Docker, jQuery, Vue.js.
 
-## 🚀 My Journey
+One of my proudest achievements: I independently designed and built
+a car insurance comparison engine whose calculations matched official
+policy prices down to the penny.
 
-From a technical college in computer science, through years of self-teaching, I’ve built my career one challenge at a time.  
-I’ve worked across the full stack—designing, building, and maintaining web applications, often diving deep into complex legacy systems and bringing them up to modern standards.
+## Available for small, well-defined tasks
 
-One of my proudest achievements was independently designing and building a car insurance comparison engine, delivering cost calculations that matched official policy prices down to the penny.
+Due to health reasons I can't take a full-time or part-time job,
+but I can help with:
 
-## 🧩 Skills & Technologies
+- code or database audits,
+- a single module or feature, paid on delivery,
+- short-term support when your team is short-handed.
 
-- **PHP** (Laravel, Symfony, Zend)
-- **JavaScript** (jQuery, Vue.js)
-- **Docker**
-- **Hexagonal Architecture (Ports & Adapters)**
-- Databases, REST APIs, Bash, Scrum, Google Cloud, Deployment automation
+## How I work with AI
 
-## 💡 Philosophy
+I work with both closed and open models — with guardrails:
+separate accounts without sudo, STATUS / CHANGELOG / HANDOFF docs,
+every change reviewed by me. AI writes fast; I'm responsible
+for what goes to production.
 
-I believe you can't cheat progress—embrace it instead.  
-I'm always learning, especially now: how to harness AI, how to adapt and grow.  
-Remember the machine-breakers? People have heard of them, but not because they succeeded—quite the opposite.  
-If you want to move forward, join the future, not fight it.
+## Featured projects
 
-## 🎯 What I'm Doing Now
+- [fast-php-logger](https://github.com/mafio69/php-logger) — PSR-3 logger, Composer package
+- [fast-php-log-viewer](https://github.com/mafio69/fast-php-log-viewer) — standalone log viewer
+- [ocr-ai](https://github.com/mafio69/ocr-ai) — OCR with visual LLMs and fallback models
+- [petstore-crud](https://github.com/mafio69/petstore-crud) — Symfony 7, hexagonal architecture
+- [php-devcontainer-starter](https://github.com/mafio69/php-devcontainer-starter) — PHP + Docker + quality tooling
+- [kolejki](https://github.com/mafio69/kolejki) — REST API with tests and k6 performance tests
 
-- Exploring the intersection of classic web development and AI tools.
-- Learning, experimenting, and sharing my journey.
+## Contact
+
+🌐 [mafio69.github.io](https://mafio69.github.io) · Polish (native), English (technical reading)
 
 ---
 
-Feel free to connect or check out my projects!
+🇵🇱 Programista PHP. Przyjmuję małe, konkretne zlecenia i audyty.
+Więcej i kontakt: [mafio69.github.io](https://mafio69.github.io)
