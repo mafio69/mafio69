@@ -7,10 +7,11 @@ One of my proudest achievements: I independently designed and built
 a car insurance comparison engine whose calculations matched official
 policy prices down to the penny.
 
-## Available for small, well-defined tasks
+## Small, well-defined tasks — after my medical treatment
 
-Due to health reasons I can't take a full-time or part-time job,
-but I can help with:
+Due to health reasons I can't take a full-time or part-time job.
+Once my treatment ends I can help with the items below — happy to talk about
+your project now:
 
 - code or database audits,
 - a single module or feature, paid on delivery,
@@ -25,7 +26,7 @@ for what goes to production.
 
 ## Featured projects
 
-- [wirralAI](https://github.com/mafio69/wirralAI) — Slim 4 / PHP 8.4 API with AI chats (OVH AI Endpoints), thin controllers, services, DTOs
+- [virral-agents](https://github.com/mafio69/virral-agents) — Slim 4 / PHP 8.4, a private chat with many AI providers, web access only after approval, encrypted history
 - [fast-php-logger](https://github.com/mafio69/php-logger) — PSR-3 logger, Composer package
 - [fast-php-log-viewer](https://github.com/mafio69/fast-php-log-viewer) — standalone log viewer
 - [ocr-ai](https://github.com/mafio69/ocr-ai) — OCR with visual LLMs and fallback models
@@ -35,9 +36,9 @@ for what goes to production.
 
 ## Contact
 
-🌐 [mafio69.github.io](https://mafio69.github.io) · Polish (native), English (technical reading)
+🌐 [mafio69.github.io](https://mafio69.github.io) · ✉️ [mariusz@mafio.pl](mailto:mariusz@mafio.pl) · Polish (native), English (technical reading)
 
 ---
 
-🇵🇱 Programista PHP. Przyjmuję małe, konkretne zlecenia i audyty.
-Więcej i kontakt: [mafio69.github.io](https://mafio69.github.io)
+🇵🇱 Programista PHP. Po zakończeniu leczenia przyjmę małe zlecenia i audyty —
+już teraz chętnie porozmawiam. Kontakt: [mariusz@mafio.pl](mailto:mariusz@mafio.pl) · [mafio69.github.io](https://mafio69.github.io)
